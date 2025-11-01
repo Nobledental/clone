@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740809694615",
+    "project_id": "healthflo-83f37",
+    "storage_bucket": "healthflo-83f37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740809694615:android:a287e75c343911b6d238d2",
+        "android_client_info": {
+          "package_name": "com.example.healthfloapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-HwGoPxfVxxxV6V8kKs7cslYGYBbgQLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

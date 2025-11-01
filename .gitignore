@@ -1,0 +1,20 @@
+# Flutter
+flutterapp/build/
+flutterapp/.dart_tool/
+flutterapp/.packages
+flutterapp/ios/Pods/
+flutterapp/android/.gradle/
+flutterapp/android/app/*.keystore
+flutterapp/linux/flutter/
+flutterapp/macos/Flutter/ephemeral/
+flutterapp/windows/flutter/
+flutterapp/web/.dart_tool/
+
+# Node
+healthflo-backend/node_modules/
+healthflo-backend/.env
+
+# Shared
+.env
+*.lock
+.DS_Store
